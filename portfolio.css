@@ -69,6 +69,12 @@
   border: 3px solid #006d88;
   transition: .4s;
 }
+.about{
+  background: #62b4c8;
+  width: 95%;
+  text-align: center;
+}
+
 @keyframes slide{
   25%{
     background: url(green.jpg);
