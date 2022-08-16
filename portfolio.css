@@ -69,9 +69,10 @@
   border: 3px solid #006d88;
   transition: .4s;
 }
-.about{
-  background: #62b4c8;
+.detail{
+  color: #62b4c8;
   width: 95%;
+  height: 50px;
   text-align: center;
 }
 
