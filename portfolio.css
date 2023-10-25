@@ -28,6 +28,9 @@
   font-family: 'Ubuntu', sans-serif;
   margin: 9px 12px;
 }
+.name>spam{
+  color: red;
+}
 .name:hover{
   letter-spacing: 8px;
   word-spacing: 1.5px;
