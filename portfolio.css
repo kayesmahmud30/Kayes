@@ -89,8 +89,8 @@
   75%{
     background: url(mosque.jpg);
     background-repeat: no-repeat;
-    background-size: 20.54em;
-    background-position: center;
+    /*background-size: 20.54em;
+    background-position: center;*/
   }
   100%{
     background: url(Sonargaon.jpg);
