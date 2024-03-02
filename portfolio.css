@@ -83,8 +83,8 @@
   50%{
     background: url(Dubai.jpg);
     background-repeat: no-repeat;
-    background-size: 21em 20.50em;
-    background-position: right center;
+    /*background-size: 21em 20.50em;
+    background-position: right center;*/
   }
   75%{
     background: url(mosque.jpg);
