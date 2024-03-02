@@ -66,6 +66,8 @@
   margin: 1.87em auto;
   animation: slide 20s infinite;
 }
+
+
 .myPicture:hover{
   height: 21em;
   width: 21em;
@@ -73,6 +75,8 @@
   border: 3px solid #006d88;
   transition: .4s;
 }
+*/
+
 @keyframes slide{
   25%{
     background: url(green1.jpg);
