@@ -77,8 +77,8 @@
   25%{
     background: url(green.jpg);
     background-repeat: no-repeat;
-    background-size: 20.54em;
-    background-position: top center;
+    /*background-size: 20.54em;
+    background-position: top center;*/
   }
   50%{
     background: url(Dubai.jpg);
