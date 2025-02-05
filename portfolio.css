@@ -195,7 +195,7 @@
     width: 77%;
 }
 .linksConteiner {
-    height: 21.25em;
+    height: 25em;
     width: 97%;
     background: #36552e7c;
     margin: 2.1em auto;
@@ -226,4 +226,9 @@
 .linksConteiner a i {
     font-size: 1.23em;
     margin-right: 0.5em;
+}
+
+
+.button-CV {
+  color: #f26d6d;
 }
